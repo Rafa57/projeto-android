@@ -185,12 +185,12 @@ ul {
     list-style-position: inside;
     columns: 2;
     padding: 0px 20px;
+    font-size: 14px;
 }
 
 ul a {
     font-family: var(--fonte-destaque);
     font-weight: 500;
-    font-size: 14px;
     text-decoration: none;
 }
 
